@@ -12,3 +12,6 @@ first generation of my family to live here, all my family is back in Colombia. I
 # About Daniel
 I'm just a normal dude
 I do normal things
+
+# About Ruth
+Hey! I am originally from upstate New York, and am now a student at McGill University. I spend most of my free time doing competitive debate and public speaking. I will be graduating in December and then am considering jobs in CS, or applying to law programs. I have been spending most of my time in quarantine (outside of 5 jobs) cooking so if you want to follow my food insta lmk.
