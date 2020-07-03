@@ -20,3 +20,7 @@ Tightrope - Janelle Monae https://www.youtube.com/watch?v=5dECPNS0MaU
 I Found - Amber Run https://www.youtube.com/watch?v=RNbgSOI0ux8
 
 Also, here is our Spotify album!! https://open.spotify.com/album/6oUQuIV3bZAUgcttZILTbF
+
+
+# About Ruth
+Hey! I am originally from upstate New York, and am now a student at McGill University. I spend most of my free time doing competitive debate and public speaking. I will be graduating in December and then am considering jobs in CS, or applying to law programs. I have been spending most of my time in quarantine (outside of 5 jobs) cooking so if you want to follow my food insta lmk.
