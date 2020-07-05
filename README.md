@@ -24,3 +24,9 @@ Also, here is our Spotify album!! https://open.spotify.com/album/6oUQuIV3bZAUgct
 
 # About Ruth
 Hey! I am originally from upstate New York, and am now a student at McGill University. I spend most of my free time doing competitive debate and public speaking. I will be graduating in December and then am considering jobs in CS, or applying to law programs. I have been spending most of my time in quarantine (outside of 5 jobs) cooking so if you want to follow my food insta lmk.
+
+
+
+#About Pranjal
+Hey guys!!... My name in Pranjal Varade. I am from Mumbai, India. Currently I am doing my masters from University of Bridgeport, CT with strong background of Computer Enginnering and Computer Science. I am love to work with the frontend part, but I am interested to work with backend stuff. I am very curious about backend part because I dont have any experience with that. Beside that love to dance, cook and bake cakes. I am a classical Dancer. I have completed my  diploma in Bharatanatyam which is one of the classical dance form of India. I am dancing from past 15 years and was conducting dance classes for 3 years. If you are interested I can teach you Bharatanatyam.Let me know :)
+
